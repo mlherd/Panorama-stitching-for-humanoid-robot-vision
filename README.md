@@ -8,7 +8,7 @@ This projects gaol is creating panoramic images using the two cameras located in
 
 # Example Result
 
-<img src="Results/test9/9.jpg" alt="" width="480">
-<img src="Results/test9/r9.jpg" alt="" width="480">
-<img src="Results/test9/directresult9.png" alt="" width="480">
-<img src="Results/test9/result9.png" alt="" width="480">
+<img src="Results/test9/9.jpg" alt="" width="320">
+<img src="Results/test9/r9.jpg" alt="" width="320">
+<img src="Results/test9/directresult9.png" alt="" width="540">
+<img src="Results/test9/result9.jpg" alt="" width="540">
