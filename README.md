@@ -8,18 +8,18 @@ This projects gaol is creating panoramic images using the two cameras located in
 
 # Example Result
 
-## Left Eye Camera Image
+### Left Eye Camera Image
 
 <img src="Results/test9/9.jpg" alt="" width="320">
 
-## Right Eye Camera Image
+### Right Eye Camera Image
 
 <img src="Results/test9/r9.jpg" alt="" width="320">
 
-## After Aligning Images
+### After Aligning Images
 
 <img src="Results/test9/directresult9.png" alt="" width="540">
 
-## After Image Blending
+### After Image Blending
 
 <img src="Results/test9/result9.jpg" alt="" width="540">
